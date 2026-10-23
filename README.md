@@ -1,12 +1,16 @@
 # Wecome to the joint scenario analysis
 
 This will be the overall analysis
-* comparison of CMIP5 / cmip6 driven Ensembles and compare it to the selected Ensemble.
+* comparison of CMIP5 / CMIP6 driven Ensembles and compare it to the BALANCED Ensemble.
 * Prudence Regions , IPCC regions
 
 * IPCC method of global warming levels
 
 Status of the [simulation](https://wcrp-cordex.github.io/simulation-status/CORDEX_CMIP6_status.html#EUR-12)
+
+If you like to check, which Simulations are planed available in Jülich and on esgf you can use
+
+    look_at_catalogue.ipynb
 
 Link to the on going [Discussion](https://docs.google.com/document/d/1evgC7yZVv2RKUxoNu0E2ZWsDh0D8T6eLqZaDrRmXOoY/edit?tab=t.0)
 
